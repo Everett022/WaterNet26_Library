@@ -1,0 +1,364 @@
+(footprint "IND_VLS6045EX-150M"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -1.268 -3.9064 0)
+		(layer "F.SilkS")
+		(uuid "5faacc5d-ae41-4af9-ae63-983850d3432d")
+		(effects
+			(font
+				(size 0.64 0.64)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "VLS6045EX-150M"
+		(at 4.0152 3.9064 0)
+		(layer "F.Fab")
+		(uuid "b32c21b7-001a-4176-9ef3-8c9767aada43")
+		(effects
+			(font
+				(size 0.64 0.64)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "40118895-f9a9-4f9f-926f-cd99969e0613")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e242f247-754d-4ef7-8895-d7567de78bc2")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MF" "TDK"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "280b41db-c86d-44f5-8679-422d3eef29d0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MAXIMUM_PACKAGE_HEIGHT" "4.5 mm"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "04a32b4b-a125-4ba6-8415-4f9d6827d240")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" "NON STANDARD-2 TDK"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8802c7fd-4566-49e0-bb57-0a68b956e51e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9c1d1056-1a5f-48a8-9300-b74cf63386d8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Check_prices" "https://www.snapeda.com/parts/VLS6045EX150M/TDK/view-part/?ref=eda"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "57500659-4490-416d-98b0-afeab1dadf6e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "STANDARD" "Manufacturer Recommendations"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b13f5156-95dc-49a1-87a1-8b33cfd9c199")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PARTREV" "N/A"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5942af59-bec7-4a2a-8771-7a2c6234f6f0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SnapEDA_Link" "https://www.snapeda.com/parts/VLS6045EX150M/TDK/view-part/?ref=snap"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cdcbb5e3-7b89-4000-a852-111a559f1816")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MP" "VLS6045EX150M"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "478a63d4-e3c1-4b6e-8211-916f6c89d19f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description_1" "Inductor Power Shielded Wirewound 15uH 20% 100KHz Ferrite 2.5A 0.0975Ohm DCR 2424 T/R"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5ee9be66-bd52-4097-ada5-dbf4aca2dd25")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Availability" "In Stock"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a59457d8-81ed-41b8-83dd-3f546ded53d7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MANUFACTURER" "TDK"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "98b1ed56-8dbf-4aae-845f-cff8488e27e9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -3 -3)
+		(end -3 -2.87)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ddee194f-664f-4af4-ba3e-fb45dde76c12")
+	)
+	(fp_line
+		(start -3 -3)
+		(end 3 -3)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "fa36e827-2320-457c-a0c6-c42339ddb2d6")
+	)
+	(fp_line
+		(start -3 3)
+		(end -3 2.87)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f72dc987-b1a1-445d-9aff-22280b10ffc7")
+	)
+	(fp_line
+		(start -3 3)
+		(end 3 3)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8e9ee893-ddc5-41ea-a9ed-d090df2430b6")
+	)
+	(fp_line
+		(start 3 -3)
+		(end 3 -2.87)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2c83c16d-5a97-4972-9eb4-0999d853d5d7")
+	)
+	(fp_line
+		(start 3 3)
+		(end 3 2.87)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4dc0896b-32f6-466e-83f8-25a7e9ad12e5")
+	)
+	(fp_line
+		(start -3.3 -3.25)
+		(end -3.3 3.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "740a6360-c86a-4d1f-9b6f-9ac60fa591c0")
+	)
+	(fp_line
+		(start -3.3 3.25)
+		(end 3.3 3.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "cf5cdc21-ab57-4be8-8477-51083c9ba72f")
+	)
+	(fp_line
+		(start 3.3 -3.25)
+		(end -3.3 -3.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "71fbca24-3a41-460b-9718-843828faff56")
+	)
+	(fp_line
+		(start 3.3 3.25)
+		(end 3.3 -3.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "2aaaa57e-37d4-4413-a29e-af862e7fc407")
+	)
+	(fp_line
+		(start -3 -3)
+		(end -3 3)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "040e79c4-6b03-4f42-b474-89225611d57f")
+	)
+	(fp_line
+		(start -3 -3)
+		(end 3 -3)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a9651017-5d8b-4fce-8fb9-19e5bc397709")
+	)
+	(fp_line
+		(start -3 3)
+		(end 3 3)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "97f80110-8a44-4ff3-b53d-7008a4042956")
+	)
+	(fp_line
+		(start 3 -3)
+		(end 3 3)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "90a1e693-6034-4a30-ac89-c119d18b685e")
+	)
+	(pad "1" smd rect
+		(at -2.1 0)
+		(size 1.9 5.1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "4b58764b-5207-47ca-805d-dbc882a002bc")
+	)
+	(pad "2" smd rect
+		(at 2.1 0)
+		(size 1.9 5.1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "38d8c140-0cc5-45c9-920c-ba23915bd75b")
+	)
+	(embedded_fonts no)
+)

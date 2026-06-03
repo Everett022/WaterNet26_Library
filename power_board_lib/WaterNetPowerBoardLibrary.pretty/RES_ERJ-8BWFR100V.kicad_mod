@@ -1,0 +1,350 @@
+(footprint "RES_ERJ-8BWFR100V"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -0.568 -1.7064 0)
+		(layer "F.SilkS")
+		(uuid "7cd57baa-8a89-4dac-9076-167d46adb5cf")
+		(effects
+			(font
+				(size 0.64 0.64)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "0.1 Ohms"
+		(at 4.3088 1.7064 0)
+		(layer "F.Fab")
+		(uuid "e8dedf10-a8d5-4d48-acb3-ff6f21fc4f7b")
+		(effects
+			(font
+				(size 0.64 0.64)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2adc8af5-55c1-41eb-b0ec-ed3b47040fb4")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c35ebad1-b9b3-4b77-b4d8-e9991ce3f632")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MF" "Panasonic Electronic"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "84a10ec1-66cb-4fce-be27-d15272c7fa96")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "DESCRIPTION" "100 mOhms 1% 1W Chip Resistor 1206 (3216 Metric) Automotive AEC-Q200, Current Sense Thick Film"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "439ac614-62ae-4cbe-a503-14beca341e76")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PACKAGE" "3216-2 Panasonic"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "03f11951-1ca4-449a-b03c-ac825acc9396")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PRICE" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b2850b05-f5a7-43a3-ab7b-b11fae76bfb8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" "3216-2 Panasonic"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3dd51d9b-2d3f-4651-baca-b86810918815")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Check_prices" "https://www.snapeda.com/parts/ERJ-8BWFR100V/Panasonic/view-part/?ref=eda"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "891a940b-838e-476b-9251-229081df5f69")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "becb6ff3-c262-4430-bb11-d77cb015348e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SnapEDA_Link" "https://www.snapeda.com/parts/ERJ-8BWFR100V/Panasonic/view-part/?ref=snap"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0da7853c-6e11-4997-bca4-633916b725ac")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MP" "ERJ-8BWFR100V"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e37b854c-4d08-486c-b89f-5f743f085343")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=318648&manufacturer=Panasonic Electronic&part_name=ERJ-8BWFR100V&search_term=erj-8bwfr100v"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "12b65ae1-3fa1-43e1-ba7a-f56d1f0b9924")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description_1" "100 mOhms 1% 1W Chip Resistor 1206 (3216 Metric) Automotive AEC-Q200, Current Sense Thick Film"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "efa3d625-4e71-471d-99b8-810ec89d0dd7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Availability" "In Stock"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "57343c30-4ff3-4043-8c1d-e79f5e0b0baa")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "AVAILABILITY" "In Stock"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2ff36763-2815-4b65-8a78-4866c5ebc12f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PURCHASE-URL" "https://pricing.snapeda.com/search/part/ERJ-8BWFR100V/?ref=eda"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a726cd42-cf97-4831-b576-cfcbbff98bb1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -0.28 -0.8)
+		(end 0.28 -0.8)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7bd8a8eb-b4d7-4f68-975e-fec228b50918")
+	)
+	(fp_line
+		(start -0.28 0.8)
+		(end 0.28 0.8)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e6b0d167-eaab-4656-9eb6-200f851451f8")
+	)
+	(fp_line
+		(start -2.6 -1.05)
+		(end -2.6 1.05)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ecd57dbc-ef44-43d9-9dd3-ee37f98d87f5")
+	)
+	(fp_line
+		(start -2.6 1.05)
+		(end 2.6 1.05)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "80557b64-f501-41c7-ab38-2f7fd47f747e")
+	)
+	(fp_line
+		(start 2.6 -1.05)
+		(end -2.6 -1.05)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d28537d8-2810-4906-8edd-a7bb8af8a7b4")
+	)
+	(fp_line
+		(start 2.6 1.05)
+		(end 2.6 -1.05)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "217c3f0c-67d1-4f07-877c-7672fe9dc34e")
+	)
+	(fp_line
+		(start -1.6 -0.8)
+		(end -1.6 0.8)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f5745852-2405-49cc-bbd1-1159e399be05")
+	)
+	(fp_line
+		(start -1.6 -0.8)
+		(end 1.6 -0.8)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e93022a8-64db-4c01-a0ef-a2b1e3e749d7")
+	)
+	(fp_line
+		(start -1.6 0.8)
+		(end 1.6 0.8)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "afc066c0-da45-4e5b-a71d-3e603eca5bad")
+	)
+	(fp_line
+		(start 1.6 -0.8)
+		(end 1.6 0.8)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c7dc4398-8e01-4fdf-a9df-a65d75bc9bb6")
+	)
+	(pad "1" smd rect
+		(at -1.475 0)
+		(size 1.75 1.55)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "7a458eb4-e541-4235-8188-2369e3087f17")
+	)
+	(pad "2" smd rect
+		(at 1.475 0)
+		(size 1.75 1.55)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "f9b555b1-25c9-461a-ba2a-b529541c6c1d")
+	)
+	(embedded_fonts no)
+)

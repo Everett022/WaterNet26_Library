@@ -1,0 +1,331 @@
+(footprint "JST_B2B-PH-K-S"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -0.025 -3.585 0)
+		(layer "F.SilkS")
+		(uuid "1862b730-0613-44b5-b271-bbd85a289cf4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "B2B-PH-K-S"
+		(at 5.69 3.665 0)
+		(layer "F.Fab")
+		(uuid "e51c9c2d-1d57-4cf1-b02a-e21b39c417c3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "217dab1b-551f-4d50-9652-819bbf3c5566")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "667c57d8-c7fb-4085-9dee-8f355c92d6e6")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MF" "JST Sales"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e7ced6d3-9c62-40aa-8413-b0d4865b8a9b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description_1" "Connector Header Through Hole 2 position 0.079 (2.00mm)"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0613c2fd-784f-479d-9964-13745b0f6f50")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "27091cb1-fb4b-4562-9641-999fe98c3819")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "acb205b3-a0df-468a-9fde-3ad45650e867")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Check_prices" "https://www.snapeda.com/parts/B2B-PH-K-S/JST/view-part/?ref=eda"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "75f01251-5921-4eb6-a44f-d1c0112cd7a0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SnapEDA_Link" "https://www.snapeda.com/parts/B2B-PH-K-S/JST/view-part/?ref=snap"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "df7b2747-d9b9-4cdd-be85-d55df5d30a93")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MP" "B2B-PH-K-S"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "360d45ed-0a43-4e75-a8ec-15ee2932daa8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Availability" "In Stock"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e0047ceb-f8f0-4c89-aa40-c2efbccb9a45")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MANUFACTURER" "JST"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "635b716a-9cd5-408e-a45d-1c824323718a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -2.95 -2.25)
+		(end 2.95 -2.25)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d2e6da99-16ba-4b84-a3c5-cabaa9b1c9fb")
+	)
+	(fp_line
+		(start -2.95 2.25)
+		(end -2.95 -2.25)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "39e400ca-a50a-486a-aab7-6fdac7c2ad44")
+	)
+	(fp_line
+		(start 2.95 -2.25)
+		(end 2.95 2.25)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b70c76a4-8027-4da0-b688-482f2dfe898c")
+	)
+	(fp_line
+		(start 2.95 2.25)
+		(end -2.95 2.25)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c24e0000-05b3-4c45-ac0b-10c17f4752bf")
+	)
+	(fp_circle
+		(center 1 2.95)
+		(end 1.1 2.95)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "2f07c204-793c-43c4-8a2c-953a3980bfcb")
+	)
+	(fp_line
+		(start -3.2 -2.5)
+		(end 3.2 -2.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "c6d84dbc-a63c-4d5d-a26f-18ae92bd7643")
+	)
+	(fp_line
+		(start -3.2 2.5)
+		(end -3.2 -2.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "29d84ad3-af1a-458c-9025-1882a803982f")
+	)
+	(fp_line
+		(start 3.2 -2.5)
+		(end 3.2 2.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "be10f8b0-c6c2-4b6c-9c61-999747abf2ea")
+	)
+	(fp_line
+		(start 3.2 2.5)
+		(end -3.2 2.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ee0aafe7-f4e3-4a58-baf6-efca15eb0020")
+	)
+	(fp_line
+		(start -2.95 -2.25)
+		(end 2.95 -2.25)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d8c21746-0653-4d5e-b22d-b51e6401b087")
+	)
+	(fp_line
+		(start -2.95 2.25)
+		(end -2.95 -2.25)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "44d00ed3-0542-441d-8af8-0bea0593bf9b")
+	)
+	(fp_line
+		(start 2.95 -2.25)
+		(end 2.95 2.25)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "754d52d3-2e7c-4d12-af5c-450251b0cd2a")
+	)
+	(fp_line
+		(start 2.95 2.25)
+		(end -2.95 2.25)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "52898e02-1b85-4f48-9614-3124f6c10d45")
+	)
+	(fp_circle
+		(center 1 2.95)
+		(end 1.1 2.95)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "6508ee07-a350-4fe2-be1c-2a212e18f994")
+	)
+	(pad "1" thru_hole rect
+		(at 1 0.55)
+		(size 1.308 1.308)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "7fbd3f1c-4a98-4764-95e6-3e8aabec3802")
+	)
+	(pad "2" thru_hole circle
+		(at -1 0.55)
+		(size 1.308 1.308)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "c5dc9639-5750-467a-8664-4d6b8d92eeee")
+	)
+	(embedded_fonts no)
+)

@@ -1,0 +1,448 @@
+(footprint "AMASS_XT60-M"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -4.825 -5.935 0)
+		(layer "F.SilkS")
+		(uuid "84868c89-1638-4296-988d-c0b960291979")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "XT60-F"
+		(at -0.38 5.935 0)
+		(layer "F.Fab")
+		(uuid "809d9986-0275-4278-a566-56b47cdf7117")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e485aa31-f3a5-44da-bcc3-a63d2dd1844b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "67700909-caee-4412-9841-48556089362d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MF" "AMASS"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f1cfed16-254f-41ae-889e-cb5a592fc958")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MAXIMUM_PACKAGE_HEIGHT" "16.00 mm"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a21224b1-d5de-488a-ae84-0ceeada117f6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" "Package"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d264b79d-5a89-4191-ac84-898d855a1e3b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1458b058-a032-4ead-a90b-7c75a7977c46")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Check_prices" "https://www.snapeda.com/parts/XT60-M/AMASS/view-part/?ref=eda"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b20e32ab-33c6-4b9b-accc-c52edfd507a7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "STANDARD" "IPC 7351B"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c1980b4b-be86-4155-aca6-908c6a2772ab")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PARTREV" "V1.2"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b3e31144-24bd-4984-865d-48773c5840ed")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SnapEDA_Link" "https://www.snapeda.com/parts/XT60-M/AMASS/view-part/?ref=snap"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "be8a2871-4f6e-45cc-a1ee-41213d51e93d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MP" "XT60-M"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8f85acb6-c74b-4dfe-be51-d764b64b93b6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description_1" "Plug; DC supply; XT60; male; PIN: 2; for cable; soldered; 30A; 500V"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "480fb7f4-36d0-4440-a3a9-4677045bbc59")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Availability" "Not in stock"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "60027389-9f93-41cb-b2bf-d203a1ebb9a4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MANUFACTURER" "AMASS"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f8999954-5e71-4b18-879c-2a262efe9ba0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -9.5 0)
+		(end -8.5 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f5c48d9c-885a-4cd2-9f53-e67fbcb1afad")
+	)
+	(fp_line
+		(start -9 -0.5)
+		(end -9 0.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "885d753b-232a-46e5-bdc3-ef2c58be664a")
+	)
+	(fp_line
+		(start -7.75 -4.05)
+		(end 4.95 -4.05)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "029f70d4-f378-499a-96b5-164c84de5e69")
+	)
+	(fp_line
+		(start -7.75 4.05)
+		(end -7.75 -4.05)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "58a158ae-7d22-473a-9ad1-8561e4ce044a")
+	)
+	(fp_line
+		(start 4.95 -4.05)
+		(end 7.75 -1.6)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "27d8765a-05bc-445a-9563-3eb77f797a18")
+	)
+	(fp_line
+		(start 4.95 4.05)
+		(end -7.75 4.05)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "fd8295fc-b95b-4dbd-a213-a29a319ce9fc")
+	)
+	(fp_line
+		(start 7.75 -1.6)
+		(end 7.75 1.6)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5a316aff-fdf3-4d70-9a52-d051dd57eb1c")
+	)
+	(fp_line
+		(start 7.75 1.6)
+		(end 4.95 4.05)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9c59f646-bd8b-4ac2-9619-c3c4ae276d69")
+	)
+	(fp_line
+		(start 8.5 0)
+		(end 9.5 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5331ac42-1dff-4dc7-a9fd-4683ed0ca3dc")
+	)
+	(fp_line
+		(start -8 -4.3)
+		(end -8 4.3)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6bee06f2-d491-494a-8782-85af4f6ab134")
+	)
+	(fp_line
+		(start -8 4.3)
+		(end 8 4.3)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "7eb7be7e-362f-4bc0-865a-81fe9c21b526")
+	)
+	(fp_line
+		(start 8 -4.3)
+		(end -8 -4.3)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ca0733d2-8f9f-4622-9aae-d31699e479da")
+	)
+	(fp_line
+		(start 8 4.3)
+		(end 8 -4.3)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "4df30e47-1768-4c34-977e-02f6fc24c0ba")
+	)
+	(fp_line
+		(start -9.5 0)
+		(end -8.5 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "322efe9d-d449-4046-8f3f-4e63e81a031d")
+	)
+	(fp_line
+		(start -9 -0.5)
+		(end -9 0.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ec87c1c0-52e9-45dc-be15-64103a83c70f")
+	)
+	(fp_line
+		(start -7.75 -4.05)
+		(end 4.95 -4.05)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a1ad65f7-6347-4ae6-8322-962ae8fd1f71")
+	)
+	(fp_line
+		(start -7.75 4.05)
+		(end -7.75 -4.05)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ddc25d4f-8083-4e13-9109-b94e1a6cb321")
+	)
+	(fp_line
+		(start 4.95 -4.05)
+		(end 7.75 -1.6)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3f8d34d6-77a5-48d0-89f0-c5083c914139")
+	)
+	(fp_line
+		(start 4.95 4.05)
+		(end -7.75 4.05)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "74ef2372-3afa-47b5-ae16-9db9061e02b4")
+	)
+	(fp_line
+		(start 7.75 -1.6)
+		(end 7.75 1.6)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4a5ad63d-b4e9-472e-8c31-59e9ff0a57f1")
+	)
+	(fp_line
+		(start 7.75 1.6)
+		(end 4.95 4.05)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a76713fe-5a95-4edc-af03-1416e5c0d66d")
+	)
+	(fp_line
+		(start 8.5 0)
+		(end 9.5 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "86714127-3830-4946-a1a9-4c17ced181bf")
+	)
+	(pad "N" thru_hole circle
+		(at 3.6 0)
+		(size 6 6)
+		(drill 4.55)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "b07a5a68-46f5-4658-8935-df005450e5f2")
+	)
+	(pad "P" thru_hole rect
+		(at -3.6 0)
+		(size 6 6)
+		(drill 4.55)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "f05cd8c1-349f-4069-a87c-7752f2153241")
+	)
+	(embedded_fonts no)
+)

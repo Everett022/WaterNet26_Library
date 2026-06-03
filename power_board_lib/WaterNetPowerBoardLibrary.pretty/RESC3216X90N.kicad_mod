@@ -1,0 +1,285 @@
+(footprint "RESC3216X90N"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -1.08 -1.52 0)
+		(layer "F.SilkS")
+		(uuid "d0bb8e31-1137-4f97-a88a-6968070bf0bc")
+		(effects
+			(font
+				(size 0.393701 0.393701)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "0.001 Ohm"
+		(at 0.67 1.52 0)
+		(layer "F.Fab")
+		(uuid "4703a281-ecb1-45a1-9a77-8cff30b46df1")
+		(effects
+			(font
+				(size 0.393701 0.393701)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c9fa1fea-4a0c-4947-81cf-275d4f2d0da0")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bb19db5b-bce9-4ca3-9594-98240b45175e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MF" "Stackpole Electronics Inc"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e4cd9ea2-3535-4ab8-ae0c-be40ebc71b74")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description_1" "1 mOhms ±1% 1W Chip Resistor 1206 (3216 Metric) Current Sense, Moisture Resistant Metal Element"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9a1851f0-9505-4990-a6e5-e4f1d34e0264")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" "3216 Yageo"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a1aa1717-41e3-41fd-ba71-a89efb993713")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9799a674-5262-4d7a-bad3-ead6fb581820")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SnapEDA_Link" "https://www.snapeda.com/parts/CSNL1206FT1L00/Stackpole+Electronics/view-part/?ref=snap"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a08cdf4a-1a2b-4485-b538-0dab11373426")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MP" "CSNL1206FT1L00"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d8ea5343-b1ec-4a53-8f40-a583603a10ce")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=3956611&manufacturer=Stackpole Electronics Inc&part_name=CSNL1206FT1L00&search_term=csnl1206ft1l00"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bc2d89c6-07dc-45eb-9134-6d10677e6419")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Availability" "In Stock"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "59733e89-780c-4436-b903-d5e16311f843")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Check_prices" "https://www.snapeda.com/parts/CSNL1206FT1L00/Stackpole+Electronics/view-part/?ref=eda"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5a166033-939a-4106-b439-1291831fe235")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -0.55 -0.93)
+		(end 0.55 -0.93)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7dfa1fea-1c5b-4abe-a073-9f548f6550da")
+	)
+	(fp_line
+		(start -0.55 0.93)
+		(end 0.55 0.93)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "74f4caf7-9fb6-4f38-8903-bfa05e422889")
+	)
+	(fp_line
+		(start -2.331 -1.181)
+		(end 2.331 -1.181)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "12dbbb40-6aa6-4dd2-996b-ea728eea7372")
+	)
+	(fp_line
+		(start -2.331 1.181)
+		(end -2.331 -1.181)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "1bc8c2ea-58eb-471c-8984-fef1976d85d5")
+	)
+	(fp_line
+		(start -2.331 1.181)
+		(end 2.331 1.181)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "dc76add9-30a5-459f-a21b-a4a6e1a12ea1")
+	)
+	(fp_line
+		(start 2.331 1.181)
+		(end 2.331 -1.181)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "47dcb9bc-b148-4a02-8be5-559d749200d5")
+	)
+	(fp_line
+		(start -1.73 0.93)
+		(end -1.73 -0.93)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4c898302-9984-493a-9698-b6cf2348f851")
+	)
+	(fp_line
+		(start 1.73 -0.93)
+		(end -1.73 -0.93)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a8cb617a-4374-4e26-956d-e32d72881457")
+	)
+	(fp_line
+		(start 1.73 0.93)
+		(end -1.73 0.93)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "63e5cc71-6fe7-4c23-95c0-35219aa252b7")
+	)
+	(fp_line
+		(start 1.73 0.93)
+		(end 1.73 -0.93)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "cc5730fe-f5fc-4746-87d9-cf615f86bfaf")
+	)
+	(pad "1" smd rect
+		(at -1.476 0)
+		(size 1.21 1.86)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "299ecf62-1874-46c7-8829-1b5c77c7e33f")
+	)
+	(pad "2" smd rect
+		(at 1.476 0)
+		(size 1.21 1.86)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "1140280a-f9c2-4cfb-8ffe-eeea1226276c")
+	)
+	(embedded_fonts no)
+)

@@ -1,0 +1,252 @@
+(footprint "RESC1608X55N"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -0.26 -1.1 0)
+		(layer "F.SilkS")
+		(uuid "930ab55c-77c4-4290-9054-7111efe63193")
+		(effects
+			(font
+				(size 0.393701 0.393701)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "ERA-3AEB4990V"
+		(at 1.49 1.1 0)
+		(layer "F.Fab")
+		(uuid "cc1f209e-67e5-4a18-8572-0b831c30b6f0")
+		(effects
+			(font
+				(size 0.393701 0.393701)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4107ff19-0dfd-4876-a07e-db823323748f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "eb44f113-1384-4aff-9c91-a665ba1db4de")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MF" "Panasonic"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f0e2d76e-f936-4cc5-8697-1a6c3b8431a3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description_1" "499 Ohms 0.1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thin Film"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "844ed466-9401-45c1-bbc7-8a4a1d308a5c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" "1608-2 Panasonic"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "56144a45-34c1-4ba1-b423-a3493370774f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a3a8bba9-4067-4523-ae31-28ad57a4aba7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SnapEDA_Link" "https://www.snapeda.com/parts/ERA-3AEB4990V/Panasonic+Electronic+Components/view-part/?ref=snap"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "655e6cd1-880c-496b-b5fc-36a71c49db97")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MP" "ERA-3AEB4990V"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d9313ad1-5985-4ae9-a0ed-5b5240185315")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Availability" "In Stock"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "aed5cbac-2ec0-495e-bbfe-580a3eb86378")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Check_prices" "https://www.snapeda.com/parts/ERA-3AEB4990V/Panasonic+Electronic+Components/view-part/?ref=eda"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a8ee3512-028e-4f22-af07-fdc9089ab843")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.508 -0.758)
+		(end 1.508 -0.758)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "0e74f21c-faae-4e76-9395-d65747774e47")
+	)
+	(fp_line
+		(start -1.508 0.758)
+		(end -1.508 -0.758)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f4aad808-ce2b-410d-8f97-e00e6c042387")
+	)
+	(fp_line
+		(start -1.508 0.758)
+		(end 1.508 0.758)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "5a8bcbf0-a2f7-45bc-b90c-15c0bebda73f")
+	)
+	(fp_line
+		(start 1.508 0.758)
+		(end 1.508 -0.758)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "cf56a7aa-615a-44fe-b781-440043b64684")
+	)
+	(fp_line
+		(start -0.9 0.5)
+		(end -0.9 -0.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "dc2f6411-58ba-41b6-bf37-c384144ff687")
+	)
+	(fp_line
+		(start 0.9 -0.5)
+		(end -0.9 -0.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5ea53361-cbe1-43ce-8f5f-cf6eb6aac8ec")
+	)
+	(fp_line
+		(start 0.9 0.5)
+		(end -0.9 0.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0998a84e-c0fc-4fe6-8b7a-a6d8f2c9e7fb")
+	)
+	(fp_line
+		(start 0.9 0.5)
+		(end 0.9 -0.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "cd5320e8-e544-4d36-8724-ad6d11fb8c35")
+	)
+	(pad "1" smd rect
+		(at -0.79 0)
+		(size 0.94 1.02)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "59f78afd-4f8d-495a-9fd6-c778a6da630f")
+	)
+	(pad "2" smd rect
+		(at 0.79 0)
+		(size 0.94 1.02)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "838e8d36-a2c3-4dc8-a7e3-0b2698a0676d")
+	)
+	(embedded_fonts no)
+)

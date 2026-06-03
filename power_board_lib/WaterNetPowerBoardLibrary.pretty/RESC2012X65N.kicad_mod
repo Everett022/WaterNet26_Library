@@ -1,0 +1,272 @@
+(footprint "RESC2012X65N"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -0.46 -1.27 0)
+		(layer "F.SilkS")
+		(uuid "b4ae7f9b-cf5e-4c56-9871-e0895618af00")
+		(effects
+			(font
+				(size 0.393701 0.393701)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "2 Ohm"
+		(at 1.29 1.27 0)
+		(layer "F.Fab")
+		(uuid "36289d50-3707-46b1-baa5-6defe8a77d85")
+		(effects
+			(font
+				(size 0.393701 0.393701)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "61a73f8c-2e35-434a-9193-8196502515cb")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1e2dff34-bbc5-4da0-be71-131152b12e2f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MF" "Stackpole Electronics Inc"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e8ab6d88-210a-4074-8c30-4a14b5f7e815")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description_1" "2 Ohms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thick Film"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d586ed85-6124-4753-93d6-8cfe8e2456aa")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" "2012 Stackpole"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "afca7770-b2a4-44d5-bccb-2fb954aadc2d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c23251c0-ef66-40dd-81d0-c6efd0ff53ff")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SnapEDA_Link" "https://www.snapeda.com/parts/RMCF0805FT2R00/Stackpole+Electronics/view-part/?ref=snap"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5fe075b0-ce4d-431f-95bb-e71ec3777bc7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MP" "RMCF0805FT2R00"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0e326c48-2a70-4e43-a1be-272f79cee250")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Availability" "In Stock"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3f77a2e6-785a-4266-a43a-20174264f30b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Check_prices" "https://www.snapeda.com/parts/RMCF0805FT2R00/Stackpole+Electronics/view-part/?ref=eda"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "dd7aa75a-ea91-4a7f-9796-d72d03f9ae7b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -0.12 -0.68)
+		(end 0.12 -0.68)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "602ab5a6-03a6-48ee-947e-bc58316dc477")
+	)
+	(fp_line
+		(start -0.12 0.68)
+		(end 0.12 0.68)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "caae7b1f-cb1d-4276-bd88-e9e4979e5639")
+	)
+	(fp_line
+		(start -1.708 -0.94)
+		(end 1.708 -0.94)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6e87fac8-e3ff-40fb-ba98-b5d093df6205")
+	)
+	(fp_line
+		(start -1.708 0.94)
+		(end -1.708 -0.94)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6be66f48-803d-498d-be1c-76dbc56e1b4b")
+	)
+	(fp_line
+		(start -1.708 0.94)
+		(end 1.708 0.94)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "c745f06a-c2ea-4c20-aced-6313a3250fbb")
+	)
+	(fp_line
+		(start 1.708 0.94)
+		(end 1.708 -0.94)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "c75dd2e8-b786-49c0-a896-7b5d71f1d0b8")
+	)
+	(fp_line
+		(start -1.1 0.68)
+		(end -1.1 -0.68)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1594e7b6-9a1b-4b2b-9141-3669e0ca58e5")
+	)
+	(fp_line
+		(start 1.1 -0.68)
+		(end -1.1 -0.68)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4b42c518-ce94-41ea-86e8-813f7f5e76ea")
+	)
+	(fp_line
+		(start 1.1 0.68)
+		(end -1.1 0.68)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1d68ad8c-420c-432d-b81e-378267b46a44")
+	)
+	(fp_line
+		(start 1.1 0.68)
+		(end 1.1 -0.68)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "711d5830-eff9-4e27-b442-f029772abea0")
+	)
+	(pad "1" smd rect
+		(at -0.95 0)
+		(size 1.01 1.38)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "279bfd7d-9f6b-4f30-bbba-64265dd479e8")
+	)
+	(pad "2" smd rect
+		(at 0.95 0)
+		(size 1.01 1.38)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "f0b39d8a-37de-4797-8023-77962f321c92")
+	)
+	(embedded_fonts no)
+)

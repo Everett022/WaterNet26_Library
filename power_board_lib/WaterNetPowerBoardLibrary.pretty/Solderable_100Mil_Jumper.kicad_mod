@@ -1,0 +1,126 @@
+(footprint "Solderable_100Mil_Jumper"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -9.4 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "d3a7e1e6-2b17-49ef-b9c5-7b3f61361018")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "~"
+		(at 0 -7.9 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "28ac1d40-4f42-4f30-aa80-deabd96878c1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "060e3d63-a796-4185-9ab3-8f76672a9631")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Solderable 0.1 header jumper"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "957f6fd6-c502-4ac4-870e-1cde5882ed38")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start -2.3 -1.15)
+		(end 2.3 1.15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "6ecd08bd-099a-49ec-9d18-69e6fd2d3ccd")
+	)
+	(fp_rect
+		(start -2.5 -1.25)
+		(end 2.5 1.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "90e6b125-b513-43c6-9b9d-a7fab9632b7b")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 -6.4 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "cd15e3f4-d791-4055-8217-782d0f1555f7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at -1.27 0)
+		(size 1.5 1.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "b0a623c4-95f8-4932-b1af-2ae90bcd927d")
+	)
+	(pad "1" smd roundrect
+		(at -0.4 0)
+		(size 0.5 0.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(solder_mask_margin 0.102)
+		(uuid "d2427ae6-c9fd-4a09-aff8-c428b859a94c")
+	)
+	(pad "2" smd roundrect
+		(at 0.4 0)
+		(size 0.5 0.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(solder_mask_margin 0.102)
+		(uuid "700256b5-dea1-4dd2-80d7-6104fd78c998")
+	)
+	(pad "2" thru_hole rect
+		(at 1.27 0)
+		(size 1.5 1.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "0114bcb4-0a27-403a-8550-f0303ab78122")
+	)
+	(embedded_fonts no)
+)

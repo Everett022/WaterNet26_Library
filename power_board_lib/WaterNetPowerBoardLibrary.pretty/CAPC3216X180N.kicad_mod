@@ -1,0 +1,272 @@
+(footprint "CAPC3216X180N"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -1.06 -1.5 0)
+		(layer "F.SilkS")
+		(uuid "37696e34-9f62-4ce7-a210-48540ad0c750")
+		(effects
+			(font
+				(size 0.393701 0.393701)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "47uF 25V"
+		(at 0.94 1.5 0)
+		(layer "F.Fab")
+		(uuid "b02d592f-a079-4d37-854c-a585ecb6d104")
+		(effects
+			(font
+				(size 0.393701 0.393701)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "840e9029-0f6a-4a75-b4ee-6c3457ab41d3")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7b63f1f7-b8e8-4ff8-8026-940c031e6031")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MF" "TDK"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7777de4a-755f-4044-8e14-c3f0dc473bf6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description_1" "47 µF ±20% 25V Ceramic Capacitor X5R 1206 (3216 Metric)"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "766b1fa6-17a2-4935-a26f-4fb5b58836e3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" "3216 TDK"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f5911f7d-e063-4876-84b0-955bbf2dd16a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f9f0b6e6-8144-455f-ba52-1b2b41e7d5fc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SnapEDA_Link" "https://www.snapeda.com/parts/C3216X5R1E476M160AC/TDK/view-part/?ref=snap"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3976275e-ba1b-4af3-8961-c50ba6969236")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MP" "C3216X5R1E476M160AC"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5565939c-6080-4b53-bfb8-6db3a6d58ddd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Availability" "In Stock"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5b490bb7-8481-41c3-a136-72d20fc80ee6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Check_prices" "https://www.snapeda.com/parts/C3216X5R1E476M160AC/TDK/view-part/?ref=eda"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "86fdbefa-8bfe-462e-8e1a-afe1663af4bc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -0.29 -0.9)
+		(end 0.29 -0.9)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d7606b72-a892-496e-8fdb-9c707bb748b8")
+	)
+	(fp_line
+		(start -0.29 0.9)
+		(end 0.29 0.9)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6278a85d-f38b-44ec-b76f-e24c373ec159")
+	)
+	(fp_line
+		(start -2.308 -1.158)
+		(end 2.308 -1.158)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "506fa4cf-058b-4d48-8982-b18318d26b3d")
+	)
+	(fp_line
+		(start -2.308 1.158)
+		(end -2.308 -1.158)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6ebf2f37-d925-43ed-8744-7fb0c6bb8726")
+	)
+	(fp_line
+		(start -2.308 1.158)
+		(end 2.308 1.158)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "5762e6f3-b7a4-4e2c-af00-a5e0250ca997")
+	)
+	(fp_line
+		(start 2.308 1.158)
+		(end 2.308 -1.158)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6024869f-2b08-4312-aa3a-48dfe990dc1e")
+	)
+	(fp_line
+		(start -1.7 0.9)
+		(end -1.7 -0.9)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5b6e5f46-ff3f-4960-94a7-3e90d4397fa2")
+	)
+	(fp_line
+		(start 1.7 -0.9)
+		(end -1.7 -0.9)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2327ff52-b8ca-4585-891c-578ae8c98fbd")
+	)
+	(fp_line
+		(start 1.7 0.9)
+		(end -1.7 0.9)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "51d6e485-ea6f-405f-b09a-aa6e3a5a30f0")
+	)
+	(fp_line
+		(start 1.7 0.9)
+		(end 1.7 -0.9)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "88b82469-568a-4d1a-aceb-5c753c06afff")
+	)
+	(pad "1" smd rect
+		(at -1.336 0)
+		(size 1.44 1.82)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "f5a4095b-725c-4a6a-83e4-b10ef8858bf7")
+	)
+	(pad "2" smd rect
+		(at 1.336 0)
+		(size 1.44 1.82)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "160267ed-3262-41c6-bb61-7b0048beebae")
+	)
+	(embedded_fonts no)
+)

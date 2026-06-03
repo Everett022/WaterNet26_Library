@@ -1,0 +1,371 @@
+(footprint "POWERPAKSO-8"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "<b>PowerPAK SO-8</b><br>")
+	(property "Reference" "REF**"
+		(at 0.122169 -0.256 0)
+		(layer "F.SilkS")
+		(uuid "e3a55ece-ea25-4b09-9a0e-803307fbe07e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SI7149ADP-T1-GE3"
+		(at 0.122169 -0.256 0)
+		(layer "F.Fab")
+		(uuid "81bf9f85-d53b-4630-83b2-45c52092017d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "90bfbd8a-bc8f-4388-b548-046c6228b1f0")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Vishay SI7149ADP-T1-GE3 P-channel MOSFET Transistor, 18.4 A, -30 V, 8-Pin PowerPAK SO"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c6c86c92-c715-40d4-9c48-d776a4f670f4")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MANUFACTURER_NAME" "Vishay"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "68e38aaa-81d4-4aa0-9a3b-174af3f0647c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MF" "Vishay Siliconix"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a6997e36-3376-4a87-892f-39a3f6bacd97")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MOUSER_PRICE-STOCK" "https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/SI7149ADP-T1-GE3?qs=vgn07B5hXauIZBHl%2Fj5hoQ%3D%3D"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "49a97b7e-9b47-4a1c-a4c6-728529383f5d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "DESCRIPTION" "Vishay SI7149ADP-T1-GE3 P-channel MOSFET Transistor, 18.4 A, -30 V, 8-Pin PowerPAK SO"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "67117207-5593-4313-82fb-bcc2526d6a5a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MOUSER_PART_NUMBER" "78-SI7149ADP-T1-GE3"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "845d81f1-b194-480c-9011-241e10b35edf")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "76341c38-264a-4537-953d-1de3f523967a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" "PowerPAK SO-8 Vishay"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cc0342fc-5a06-42ac-98c1-06809d261bfe")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Check_prices" "https://www.snapeda.com/parts/SI7149ADP-T1-GE3/Vishay/view-part/?ref=eda"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "892c5bac-ccd4-422d-a119-cf3c674feb58")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "HEIGHT" "mm"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "329159d2-227a-4b50-882e-c0ead976606c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SnapEDA_Link" "https://www.snapeda.com/parts/SI7149ADP-T1-GE3/Vishay/view-part/?ref=snap"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d4455b7f-9ede-4119-840b-2e83c6f31c34")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MP" "SI7149ADP-T1-GE3"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "71e3386b-b780-4980-bf16-840406d11270")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description_1" "SI7149ADP-T1-GE3 P-channel MOSFET Transistor, 18 A, 30 V, 8-Pin PowerPAK SO | Siliconix / Vishay SI7149ADP-T1-GE3"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3dbfb6a0-eae9-44cf-85dc-ad2cded7f332")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Availability" "In Stock"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "dac2cbfb-ab27-45d8-81a7-14e07d65f337")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MANUFACTURER_PART_NUMBER" "SI7149ADP-T1-GE3"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "715ea7a9-4cbd-449c-bb79-f7d9de81570a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -2.945 -2.45)
+		(end 2.945 -2.45)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6e88e1b7-f706-40f5-87b5-710dec8c318e")
+	)
+	(fp_line
+		(start -2.945 2.45)
+		(end 2.945 2.45)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "42f253f0-90ed-4695-b082-45db15105847")
+	)
+	(fp_circle
+		(center -3.82867 -2.40833)
+		(end -3.74367 -2.40833)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(fill no)
+		(layer "Dwgs.User")
+		(uuid "863a5565-f793-43ad-a9a1-06cc2dec2c60")
+	)
+	(fp_line
+		(start -2.945 -2.45)
+		(end 2.945 -2.45)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "cb5b5719-8c60-4a7e-a3bb-fd22cc90670b")
+	)
+	(fp_line
+		(start -2.945 2.45)
+		(end -2.945 -2.45)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "58733d1e-e742-4981-8ac5-bae56f6105f4")
+	)
+	(fp_line
+		(start 2.945 -2.45)
+		(end 2.945 2.45)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6c1ae7b8-69ab-41f0-a48d-3aa1eb6d6352")
+	)
+	(fp_line
+		(start 2.945 2.45)
+		(end -2.945 2.45)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8f1ce222-bfc2-4350-a06e-402c6ba3b266")
+	)
+	(pad "1" smd rect
+		(at -2.7325 -1.905)
+		(size 1.27 0.61)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "b6b14493-a6f5-4ec2-ae90-6579268c027b")
+	)
+	(pad "2" smd rect
+		(at -2.7325 -0.635)
+		(size 1.27 0.61)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "050a2a3b-a019-46e1-8b5a-3df6fe772fac")
+	)
+	(pad "3" smd rect
+		(at -2.7325 0.635)
+		(size 1.27 0.61)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "363a7e59-c265-474b-a75e-d31a904e8861")
+	)
+	(pad "4" smd rect
+		(at -2.7325 1.905)
+		(size 1.27 0.61)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "1e4b1fd8-da35-44f2-9a2f-58b778bc61a0")
+	)
+	(pad "5" smd rect
+		(at 2.7325 1.905)
+		(size 1.02 0.61)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "1cc5b26c-7cb3-4504-b611-200f121474eb")
+	)
+	(pad "6" smd rect
+		(at 2.7325 0.635)
+		(size 1.02 0.61)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "e01c1a24-0a3f-4942-aa57-4e7759fa407c")
+	)
+	(pad "7" smd rect
+		(at 2.7325 -0.635)
+		(size 1.02 0.61)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "f7a6f2de-a99f-4828-aaac-aa56485e659e")
+	)
+	(pad "8" smd rect
+		(at 0.6275 0)
+		(size 3.91 3.81)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "36433e92-614d-4fcf-830c-6b0013cd41f8")
+	)
+	(pad "8" smd rect
+		(at 2.7325 -1.905)
+		(size 1.02 0.61)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "6f4cd989-01f5-48bd-9a0c-148a37d6ea0b")
+	)
+	(embedded_fonts no)
+)

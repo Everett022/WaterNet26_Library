@@ -1,0 +1,324 @@
+(footprint "WE-MAPI_5030"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -4.135 0)
+		(layer "F.SilkS")
+		(uuid "48b3ab73-7cde-4027-905e-56665939c9e5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "WE-MAPI_5030"
+		(at 0 3.865 0)
+		(layer "F.Fab")
+		(uuid "ab3247ea-7b72-432b-af6c-4672365f3f24")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c59eb2a0-bbec-41d3-808f-fbc452440053")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "35568a54-26d9-48de-8d5f-acca4ce0447a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MF" "Würth Elektronik"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "337b84d9-4673-4120-8a32-c61e515d613b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description_1" "3.3 µH Shielded Inductor 6.2 A 23mOhm Max Nonstandard"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "16b0879f-f826-4b3f-823b-5452749b4d5d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "43f7aab0-5f40-4e21-bb6d-4015c5ae2480")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0ec71723-7c4e-43f9-9d1a-19ae4ec2943f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SnapEDA_Link" "https://www.snapeda.com/parts/74438367033/W%25C3%25BCrth+Elektronik+Midcom/view-part/?ref=snap"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7211a3db-9712-4d5e-8b42-7e0c8bb177ad")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MP" "74438367033"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6ce487e2-881e-48b2-80f4-e4b1ef0d0a2c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Availability" "In Stock"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a803d4a8-d90b-41b2-891f-35074840f442")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Check_prices" "https://www.snapeda.com/parts/74438367033/W%25C3%25BCrth+Elektronik+Midcom/view-part/?ref=eda"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9952479e-a88a-49a3-98e5-79f44d9c45f5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -0.7 -2.8)
+		(end 0.7 -2.8)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e3a667e4-4db0-4876-a725-e40b00008166")
+	)
+	(fp_line
+		(start -0.7 2.8)
+		(end 0.7 2.8)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a4cbfc1f-32ed-4d27-9f4b-2632e4ff8d70")
+	)
+	(fp_circle
+		(center -3.5 -2.5)
+		(end -3.4 -2.5)
+		(stroke
+			(width 0.4)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "0af0c54d-07ee-47b1-8d8c-4855577605ff")
+	)
+	(fp_poly
+		(pts
+			(xy -3 -3) (xy 3 -3) (xy 3 3) (xy -3 3)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.CrtYd")
+		(uuid "879d23a2-3859-4591-a57e-c9d93d516163")
+	)
+	(fp_line
+		(start -2.7 -2.7)
+		(end 2.7 -2.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "84021690-15d7-4842-ac5b-9b03e59400b8")
+	)
+	(fp_line
+		(start -2.7 2.7)
+		(end -2.7 -2.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "56ca437b-3f7f-4a15-8e81-c5d5a4bcf328")
+	)
+	(fp_line
+		(start 2.7 -2.7)
+		(end 2.7 2.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6a064e04-8825-451f-a3e0-331c16a16cce")
+	)
+	(fp_line
+		(start 2.7 2.7)
+		(end -2.7 2.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "afa75fd7-06c9-4703-95e5-1554ffc2f20b")
+	)
+	(pad "1" smd rect
+		(at -1.95 0)
+		(size 1.7 5.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "2472ac14-91cd-42ad-90b4-c2a87336ad8d")
+	)
+	(pad "2" smd rect
+		(at 1.95 0)
+		(size 1.7 5.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "fe858084-88f5-43eb-8b55-7661dfbcac97")
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layer "F.Cu")
+		(uuid "50afda7d-702f-4341-8425-e11880231411")
+		(hatch full 0.508)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.01)
+		(filled_areas_thickness no)
+		(keepout
+			(tracks not_allowed)
+			(vias not_allowed)
+			(pads not_allowed)
+			(copperpour not_allowed)
+			(footprints allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "")
+		)
+		(fill
+			(thermal_gap 0.508)
+			(thermal_bridge_width 0.508)
+		)
+		(polygon
+			(pts
+				(xy -1.1 -2.8) (xy 1.1 -2.8) (xy 1.1 2.8) (xy -1.1 2.8)
+			)
+		)
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layers "F.Cu" "B.Cu" "In1.Cu" "In2.Cu" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu"
+			"In7.Cu" "In8.Cu" "In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu"
+			"In15.Cu" "In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu"
+			"In22.Cu" "In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu"
+			"In29.Cu" "In30.Cu"
+		)
+		(uuid "d40d30e2-3e9d-4883-9740-ceebdf373dda")
+		(hatch full 0.508)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.01)
+		(filled_areas_thickness no)
+		(keepout
+			(tracks allowed)
+			(vias not_allowed)
+			(pads allowed)
+			(copperpour allowed)
+			(footprints allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "")
+		)
+		(fill
+			(thermal_gap 0.508)
+			(thermal_bridge_width 0.508)
+		)
+		(polygon
+			(pts
+				(xy -1.1 -2.8) (xy 1.1 -2.8) (xy 1.1 2.8) (xy -1.1 2.8)
+			)
+		)
+	)
+	(embedded_fonts no)
+)

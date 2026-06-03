@@ -1,0 +1,324 @@
+(footprint "FUSC6125X279N"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -0.325 -2.635 0)
+		(layer "F.SilkS")
+		(uuid "5857bdde-f963-4052-9f73-3990ed0006a4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "0680L5000-05"
+		(at 4.755 2.865 0)
+		(layer "F.Fab")
+		(uuid "8039934c-14d6-4f7c-b05a-8b49cdb06364")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cf2ae3c8-25ef-4f5d-9a56-7b2201d38a29")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bc2e669f-dbfe-4df1-a982-aeb9c6adcca5")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MF" "Bel Fuse"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f8c6dfb0-a2e1-466d-bd8c-6b7231e0e831")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MAXIMUM_PACKAGE_HEIGHT" "2.79mm"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "598d2e22-d68a-4fc0-bc6c-645b513f9851")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" "SMD-2 Bel Fuse Inc."
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "183591b8-39ac-4ea5-abdb-eca8783fa069")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "aeaee6ff-cdf1-4f34-8702-df364d2836cb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Check_prices" "https://www.snapeda.com/parts/0680L5000-05/Bel+Circuit+Protection/view-part/?ref=eda"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ccaf06a3-845f-4ffb-97ba-d6f92f2a35bd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "STANDARD" "IPC-7351B"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "93287014-f740-454c-a12b-6882c871ebc7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PARTREV" "0679H Apr2019"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "31b681c7-b08d-47e6-bfe4-a9875a0c83a2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SnapEDA_Link" "https://www.snapeda.com/parts/0680L5000-05/Bel+Circuit+Protection/view-part/?ref=snap"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5e322ba9-19d3-4b49-8f5c-b060b331bb71")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MP" "0680L5000-05"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d7c61970-17c1-4028-99c5-2474ee5dacb5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description_1" "Surface mount bricks | Silver Plated | 2410 case size | Slow Blow | 5A | Tape and Reel (5000 pcs.)"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7c787395-42fc-4e64-8d2e-53e51e22fbbe")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Availability" "In Stock"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b0eca6af-b33c-41a6-bcce-a7d9542cde6b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MANUFACTURER" "BELFUSE"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "161d131d-f192-475e-8cdb-dd4150c20418")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1 -1.27)
+		(end 1 -1.27)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "58bd6be8-e6c3-46f9-a342-14a2c7dfc526")
+	)
+	(fp_line
+		(start 1 1.27)
+		(end -1 1.27)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c01ef782-d0e1-41b0-a82f-45332cd0d940")
+	)
+	(fp_line
+		(start -3.78 -1.72)
+		(end 3.78 -1.72)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6e54d56f-c739-4359-81fd-154d237a8b98")
+	)
+	(fp_line
+		(start -3.78 1.72)
+		(end -3.78 -1.72)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "51e76c80-fc3d-4c97-bf92-e2920daa6f2f")
+	)
+	(fp_line
+		(start 3.78 -1.72)
+		(end 3.78 1.72)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d616d185-4924-4c50-8823-d62ba1f5a478")
+	)
+	(fp_line
+		(start 3.78 1.72)
+		(end -3.78 1.72)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "793e4669-347e-43fe-bf96-a275465320ee")
+	)
+	(fp_line
+		(start -3.05 -1.27)
+		(end 3.05 -1.27)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "74059547-2d9b-48de-b0a9-98a329133b4e")
+	)
+	(fp_line
+		(start -3.05 1.27)
+		(end -3.05 -1.27)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3a788574-a035-4faa-a851-663d0ed8ee04")
+	)
+	(fp_line
+		(start 3.05 -1.27)
+		(end 3.05 1.27)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "af83595c-f4c1-441a-8860-ba20abede818")
+	)
+	(fp_line
+		(start 3.05 1.27)
+		(end -3.05 1.27)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b6de60a8-47f0-4df2-9102-1b8fd358b1f3")
+	)
+	(pad "1" smd rect
+		(at -2.455 0)
+		(size 2.15 2.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "6e1d2d5c-9459-4d5b-940f-56d8027ba11d")
+	)
+	(pad "2" smd rect
+		(at 2.455 0)
+		(size 2.15 2.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "e4bb6b97-6550-4f8f-a122-d85ccd909f77")
+	)
+	(embedded_fonts no)
+)

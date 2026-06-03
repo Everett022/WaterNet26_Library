@@ -1,0 +1,364 @@
+(footprint "IND_SRP1265A-220M"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -3.075 -7.385 0)
+		(layer "F.SilkS")
+		(uuid "65752945-9bbf-468e-a583-fc8cae9b118e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "22uH 9A"
+		(at 4.545 7.365 0)
+		(layer "F.Fab")
+		(uuid "73a88ddf-f893-452e-b257-26830f8eefb2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c237a61b-8558-49c8-a1eb-86eb85c6a840")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7aecbf4a-6b88-4230-be35-75bdf818f697")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MF" "Bourns"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8895274a-a436-4fb3-ade7-59657ae7fbeb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MAXIMUM_PACKAGE_HEIGHT" "6.5mm"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3f6f5223-e96d-4b04-8ee7-3e5a56a71ed2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" "Nonstandard Bourns"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2fc23ede-7b41-4dcd-b519-7ba5a4cdce51")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4fb155f6-a448-4cdb-8cb3-148d9f68695e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Check_prices" "https://www.snapeda.com/parts/SRP1265A-220M/Bourns/view-part/?ref=eda"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b353bb64-c089-43db-b4a2-7d73fd4a38b5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "STANDARD" "Manufacturer Recommendations"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5ea4fc08-6806-4736-bfbb-bc302ff9ac40")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PARTREV" "04/20"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8b071429-69e5-42b0-9f54-9d7a3a795296")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SnapEDA_Link" "https://www.snapeda.com/parts/SRP1265A-220M/Bourns/view-part/?ref=snap"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3fe8fb0a-4b57-428b-b562-eb4772c4ed33")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MP" "SRP1265A-220M"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "86f5d752-0d66-4bcd-b363-db39df84030c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description_1" "Inductor,Shielded Power,AEC-Q200,22uH 20% SMT 1265 | Bourns SRP1265A-220M"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a718efa4-6d13-4bb0-b6db-0341f64369f5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Availability" "In Stock"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2fdfdf25-0da0-4f0e-8138-83d674ded680")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MANUFACTURER" "Bourns"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "af3e3edd-1551-4aab-9453-5b6dca60885e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -6.75 -6.25)
+		(end 6.75 -6.25)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "83facd19-239c-4aa4-b4ab-30fa7134adc1")
+	)
+	(fp_line
+		(start -6.75 -2.82)
+		(end -6.75 -6.25)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ecb58952-e2d7-4f79-bce9-3074ff3b9737")
+	)
+	(fp_line
+		(start -6.75 6.25)
+		(end -6.75 2.82)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "fefc500b-8a6a-4c13-aa7d-d2e28a6dac05")
+	)
+	(fp_line
+		(start 6.75 -6.25)
+		(end 6.75 -2.82)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "21132427-a036-4ca5-b605-4d755711b242")
+	)
+	(fp_line
+		(start 6.75 6.25)
+		(end -6.75 6.25)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "849be392-2769-4242-af91-f9a6c5bd9a3b")
+	)
+	(fp_line
+		(start 6.75 6.25)
+		(end 6.75 2.82)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c87a3bed-c47f-42d3-961e-9acfc526be0f")
+	)
+	(fp_line
+		(start -7.35 -6.5)
+		(end -7.35 6.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "33be88f8-69f7-44a1-bb9c-e9e05ac68c43")
+	)
+	(fp_line
+		(start -7.35 6.5)
+		(end 7.35 6.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d1f3b81a-a2a6-4fce-9856-f02746ad57f1")
+	)
+	(fp_line
+		(start 7.35 -6.5)
+		(end -7.35 -6.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "cfb7536a-8cdc-4acd-aa9c-ec833bd75326")
+	)
+	(fp_line
+		(start 7.35 6.5)
+		(end 7.35 -6.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d7b34266-a98a-441f-8369-94e789525e92")
+	)
+	(fp_line
+		(start -6.75 -6.25)
+		(end 6.75 -6.25)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ffe92921-8e9a-4586-b38f-90d042bc688e")
+	)
+	(fp_line
+		(start -6.75 6.25)
+		(end -6.75 -6.25)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8ea3076d-c2a3-471c-91cd-e5b12a83fd83")
+	)
+	(fp_line
+		(start 6.75 -6.25)
+		(end 6.75 6.25)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "95df6ff1-f347-4fce-9e56-a72420274541")
+	)
+	(fp_line
+		(start 6.75 6.25)
+		(end -6.75 6.25)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0efb7812-314f-4299-ad05-ed8e32a793c7")
+	)
+	(pad "1" smd rect
+		(at -5.55 0)
+		(size 3.1 5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "783e59e6-b653-43c0-b460-f8df24eaee38")
+	)
+	(pad "2" smd rect
+		(at 5.55 0)
+		(size 3.1 5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "899bbb08-f4f9-438c-8059-8baa9e7e419f")
+	)
+	(embedded_fonts no)
+)

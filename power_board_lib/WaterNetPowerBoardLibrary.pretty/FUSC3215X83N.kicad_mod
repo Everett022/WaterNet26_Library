@@ -1,0 +1,506 @@
+(footprint "FUSC3215X83N"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -1.06 -1.49 0)
+		(layer "F.SilkS")
+		(uuid "844bf435-e3c6-4a74-8e5e-c1bdbfd3db2a")
+		(effects
+			(font
+				(size 0.393701 0.393701)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "C1F-3"
+		(at 0.69 1.49 0)
+		(layer "F.Fab")
+		(uuid "ca6c72dd-a132-4da2-a6dd-f7a7bb0578ac")
+		(effects
+			(font
+				(size 0.393701 0.393701)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "162aa89b-6d96-416d-bb31-b84a53274ed7")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "47bc374c-8947-448b-a58b-2626e95c0425")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "L_MAX" "0.76"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9ce7cae1-a51b-412f-9088-f74bdbf27bbc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "A_MAX" "0.83"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "79cff34d-770b-4e41-b508-52db384395d8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "L1_NOM" "0.51"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "308e744a-b880-493c-af05-bef7332da911")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Check_prices" "https://www.snapeda.com/parts/C1F-3/Bel+Circuit+Protection/view-part/?ref=eda"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "894f32a2-4f1f-4233-b7de-5551cd91c43e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" "1206 Bel Fuse"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "73221600-c7de-4c1e-812d-d5c317b57ea5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "D_MAX" "3.4"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c99fa620-8fea-48a2-8502-b225f47624ae")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "A_NOM" "0.83"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "db1de9e2-ddfb-4593-8560-6802e2fa563f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "L1_MAX" "0.76"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "51579fd7-e3ff-4e1f-9c41-41edca83ca10")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "A_MIN" "0.83"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3e1ad8b0-8c2e-440c-b53d-f497aa5532b8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "STANDARD" "IPC 7351B"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ed9d0afa-b44b-431f-a21a-b229d9277f30")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PARTREV" "Jan2019"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "df76f3b4-00c7-4fec-891c-6f0c0dc3b37f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SnapEDA_Link" "https://www.snapeda.com/parts/C1F-3/Bel+Circuit+Protection/view-part/?ref=snap"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8aa04000-6948-4135-9e39-ac2330fc0b43")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "E_NOM" "1.58"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "858aa98c-d38d-4f2b-b4e8-0a6b8136ed70")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "L_NOM" "0.51"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b71686dc-0ddb-48b2-bd38-00d06e8e7d5c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MANUFACTURER" "Bel Fuse Inc."
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7a3d13c3-4115-43c9-95ac-6daa5c96323a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "L1_MIN" "0.26"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8a67b73a-08d3-4fe7-b34e-c32b9cfa9e9d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MF" "Bel Fuse"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1397d184-e5f9-4c33-bdf4-54cff3eed792")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description_1" "C1F 3 (0685F3000-01) | 1206 SMT Fuse | Fast Acting | 3A"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "79d6ad87-469f-49a4-9524-8174217487f8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "08c0f582-3608-406c-8332-5c13475180ab")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "E_MIN" "1.38"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "af17da72-2993-477e-8d4f-e924dc210933")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "D_MIN" "3.0"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d92dbe49-a5e3-43b4-8653-ac7d02f53d61")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MP" "C1F-3"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f08d2372-ecbc-4617-9093-145ef496e9e7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "D_NOM" "3.2"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "77978bb8-93b2-4053-a0c3-9acb524f9933")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "L_MIN" "0.26"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3dd03368-834a-43a6-a563-2b9619aa1835")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Availability" "In Stock"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fecedb66-fe0d-4d8d-ab2b-48d3270d4e8c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "E_MAX" "1.78"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "36d7c85a-8fd3-4ea7-a20e-bfadfad1aefa")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -0.56 -0.89)
+		(end 0.56 -0.89)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "312897b0-566b-4397-ad73-16625b169618")
+	)
+	(fp_line
+		(start -0.56 0.89)
+		(end 0.56 0.89)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "60e6eedd-2a45-4a9c-acd4-9f89040b79f2")
+	)
+	(fp_line
+		(start -2.305 -1.15)
+		(end 2.305 -1.15)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "a20b069f-f1a6-439d-b321-2de39b10ac9d")
+	)
+	(fp_line
+		(start -2.305 1.15)
+		(end -2.305 -1.15)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "0ae53208-a8f1-407d-b49a-93f67a8af8f0")
+	)
+	(fp_line
+		(start -2.305 1.15)
+		(end 2.305 1.15)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "362ac443-4402-40da-bee3-1e2bd3e41376")
+	)
+	(fp_line
+		(start 2.305 1.15)
+		(end 2.305 -1.15)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "481d9b34-37c4-4cd3-bd68-9b5980ed6975")
+	)
+	(fp_line
+		(start -1.7 0.89)
+		(end -1.7 -0.89)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d1c6ab9b-4ce6-442d-955f-eac2d1c594ae")
+	)
+	(fp_line
+		(start 1.7 -0.89)
+		(end -1.7 -0.89)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "dc134c5e-ff66-4f1c-9747-90627fd545ae")
+	)
+	(fp_line
+		(start 1.7 0.89)
+		(end -1.7 0.89)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "22425335-4a31-4ce5-9cbb-4382a03a877f")
+	)
+	(fp_line
+		(start 1.7 0.89)
+		(end 1.7 -0.89)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "58fc8d7d-59e4-400f-a751-86a0a97e9747")
+	)
+	(pad "1" smd rect
+		(at -1.47 0)
+		(size 1.17 1.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "13d37ca2-9b37-4e00-8e88-cabfe48ea040")
+	)
+	(pad "2" smd rect
+		(at 1.47 0)
+		(size 1.17 1.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "d2a54439-7552-44f8-9769-f4ccd290280a")
+	)
+	(embedded_fonts no)
+)

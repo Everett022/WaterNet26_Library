@@ -1,0 +1,324 @@
+(footprint "RES_ERA6AEB103V"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0.032 -1.5314 0)
+		(layer "F.SilkS")
+		(uuid "5a521709-6d5f-4e3b-a2bc-530407ed503a")
+		(effects
+			(font
+				(size 0.64 0.64)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "10K"
+		(at 4.096 1.5314 0)
+		(layer "F.Fab")
+		(uuid "27a2bd4f-aaeb-4658-82e4-7145b7c86455")
+		(effects
+			(font
+				(size 0.64 0.64)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2cf6295f-2871-4637-a478-48a580b416d7")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0311d69c-859f-4181-9dda-6baa3d1362e5")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MF" "Panasonic"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fefabf74-ea88-4999-afd3-c9891a65610e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MAXIMUM_PACKAGE_HEIGHT" "0.6 mm"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6468c118-8a8d-4e6a-ab09-8f6c15261cb3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" "2012-2 Panasonic"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "08c304c8-81cf-449c-8a28-122240ccc9c8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4a2772de-7e29-4142-92ea-c89a9ab5b0bf")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Check_prices" "https://www.snapeda.com/parts/ERA-6AEB103V/Panasonic+Electronic+Components/view-part/?ref=eda"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "213b8458-2bd2-4fad-975e-43cd5f826f61")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "STANDARD" "Manufacturer Recommendations"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "865c6e25-154f-4a16-99dd-b3257c1c5766")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PARTREV" "3/1/2020"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9e4c01dd-b1fc-4175-a4e3-8c834a4dccbb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SnapEDA_Link" "https://www.snapeda.com/parts/ERA-6AEB103V/Panasonic+Electronic+Components/view-part/?ref=snap"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "902d5458-3bcd-4076-83aa-36ad2f9d816c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MP" "ERA-6AEB103V"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d4404e6b-856b-4f27-aadb-fa82825fcb06")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description_1" "Res Thin Film 0805 10K Ohm 0.1% 0.125W(1/8W) 25ppm/C Molded SMD Punched Carrier T/R"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5ab68b66-57fe-48d3-bbf3-a61e48d04ef0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Availability" "In Stock"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "92061323-b9c1-4b3c-81c4-6e4c6e5bdac9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MANUFACTURER" "Panasonic"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8d3b656f-8301-488e-b94a-ed86410c6b18")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -0.28 -0.625)
+		(end 0.28 -0.625)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e1d141ec-a6b0-427f-9707-21458ad892b0")
+	)
+	(fp_line
+		(start -0.28 0.625)
+		(end 0.28 0.625)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d3703314-ffbc-493b-b68c-6f317bbad8f4")
+	)
+	(fp_line
+		(start -2 -0.875)
+		(end -2 0.875)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "56513e68-e2ff-47cd-a7d4-bc969bb97941")
+	)
+	(fp_line
+		(start -2 0.875)
+		(end 2 0.875)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "80f70cc6-4b20-47dc-ae51-fbfc7dad7b44")
+	)
+	(fp_line
+		(start 2 -0.875)
+		(end -2 -0.875)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "aac7933f-7449-40d1-ac42-10a420a72cf1")
+	)
+	(fp_line
+		(start 2 0.875)
+		(end 2 -0.875)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "3c48f8c3-b69b-494b-a55c-9b256f02b171")
+	)
+	(fp_line
+		(start -1 -0.625)
+		(end -1 0.625)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7a2c61ec-4a49-439d-b930-924e092a0e45")
+	)
+	(fp_line
+		(start -1 -0.625)
+		(end 1 -0.625)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "77eb0a4a-1241-4e6e-9821-c706c260b977")
+	)
+	(fp_line
+		(start -1 0.625)
+		(end 1 0.625)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "cb7b13e2-9a6e-45ac-8d5c-624dcf4d8e5f")
+	)
+	(fp_line
+		(start 1 -0.625)
+		(end 1 0.625)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f4898464-0f1b-472d-80b7-50a1de1397ca")
+	)
+	(pad "1" smd rect
+		(at -1.175 0)
+		(size 1.15 1.15)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "b1d3a1c0-744a-40cf-ae8e-aa41752f5817")
+	)
+	(pad "2" smd rect
+		(at 1.175 0)
+		(size 1.15 1.15)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "f1f0a27c-2b8a-4756-a932-61e54527f4ac")
+	)
+	(embedded_fonts no)
+)

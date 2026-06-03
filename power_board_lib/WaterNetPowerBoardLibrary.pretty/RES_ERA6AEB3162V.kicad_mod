@@ -1,0 +1,337 @@
+(footprint "RES_ERA6AEB3162V"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0.032 -1.5314 0)
+		(layer "F.SilkS")
+		(uuid "f91cefbb-4778-4d0a-aa1c-beaa211a61da")
+		(effects
+			(font
+				(size 0.64 0.64)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "31.6K"
+		(at 4.5024 1.5314 0)
+		(layer "F.Fab")
+		(uuid "fff92c7f-9e8c-4b76-82c6-e81a4e3c6292")
+		(effects
+			(font
+				(size 0.64 0.64)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "88f3cb98-cebe-4c70-95b0-84f08776e610")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "76d28754-1cb7-4cd3-ae53-3b16356627e4")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MF" "Panasonic"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ecb4b1c7-52b4-4813-aaf2-0c73c7b90ed2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MAXIMUM_PACKAGE_HEIGHT" "0.6 mm"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1997156c-9bf9-417f-a099-6304bd722cbe")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" "2012-2 Panasonic"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9116ee7e-a312-48f7-8659-f3e1288371be")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8077f7a4-8f6a-43de-95cd-f2b0004bf423")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Check_prices" "https://www.snapeda.com/parts/ERA-6AEB3162V/Panasonic/view-part/?ref=eda"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f4778184-a854-4fcd-b2e5-aa75d803045f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "STANDARD" "Manufacturer Recommendations"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d0ddd9a6-26c6-40e6-86ac-8daf728caf9f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PARTREV" "3/1/2020"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "269331b4-ea28-4a93-944e-6eee08d2ab71")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SnapEDA_Link" "https://www.snapeda.com/parts/ERA-6AEB3162V/Panasonic/view-part/?ref=snap"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "62a787a9-bd49-408b-b057-1d03cc32b3a0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MP" "ERA-6AEB3162V"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ac2f56b3-fac2-4ebe-b251-c97cfad09ee9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=3719844&manufacturer=Panasonic&part_name=ERA-6AEB3162V&search_term=era-6aeb3162v"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7cb6fcec-c4e5-43aa-8d4b-45403fcd9808")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description_1" "RES 31.6K OHM 0.1% 1/8W 0805"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "61856d89-6d5d-44e7-97ab-6a93280ecfba")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Availability" "In Stock"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ff98ebec-8ee8-4aa3-bb2a-01d5a0438633")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MANUFACTURER" "Panasonic"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1f85b9b1-8b9d-488b-8f3e-aeb61746db5b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -0.28 -0.625)
+		(end 0.28 -0.625)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d23251b9-cbe0-4aea-8a00-e08e5eb685d2")
+	)
+	(fp_line
+		(start -0.28 0.625)
+		(end 0.28 0.625)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "007b6426-6cab-45de-b882-c72311803714")
+	)
+	(fp_line
+		(start -2 -0.875)
+		(end -2 0.875)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "46bd3800-350c-40e9-9252-d4e987bdbf40")
+	)
+	(fp_line
+		(start -2 0.875)
+		(end 2 0.875)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "276fcbe8-07eb-496e-9cd3-b2e0e4cf7d53")
+	)
+	(fp_line
+		(start 2 -0.875)
+		(end -2 -0.875)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d9781cbe-0076-4b32-88c5-4e5aa584b396")
+	)
+	(fp_line
+		(start 2 0.875)
+		(end 2 -0.875)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d456b331-03ba-4e37-b56a-3da28e22d47f")
+	)
+	(fp_line
+		(start -1 -0.625)
+		(end -1 0.625)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1bd672e2-5fbb-4eeb-ac3e-ac14456d2c20")
+	)
+	(fp_line
+		(start -1 -0.625)
+		(end 1 -0.625)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c8968f4c-df2e-4a4e-9f5e-6c52420eabe3")
+	)
+	(fp_line
+		(start -1 0.625)
+		(end 1 0.625)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ff069040-ff44-4f27-8bd1-3024e4a3bdd2")
+	)
+	(fp_line
+		(start 1 -0.625)
+		(end 1 0.625)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4d858e51-4465-4778-b94d-2f9acf9b72ad")
+	)
+	(pad "1" smd rect
+		(at -1.175 0)
+		(size 1.15 1.15)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "ff7ba46f-4419-4a50-be47-21f8efb3085a")
+	)
+	(pad "2" smd rect
+		(at 1.175 0)
+		(size 1.15 1.15)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "09f9c170-5728-4509-914e-69bbfed8623c")
+	)
+	(embedded_fonts no)
+)

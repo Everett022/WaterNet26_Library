@@ -1,0 +1,400 @@
+(footprint "SOT95P280X100-6N"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0.39 -2.7 0)
+		(layer "F.SilkS")
+		(uuid "01da2565-ab1b-4a0a-aaca-949234572b02")
+		(effects
+			(font
+				(size 0.787402 0.787402)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "AP62301WU-7"
+		(at 5.89 2.7 0)
+		(layer "F.Fab")
+		(uuid "ddea7a2e-c615-4b5a-ad73-81985f6bb308")
+		(effects
+			(font
+				(size 0.787402 0.787402)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "59335b45-0c27-4144-8a7a-7e22122b9689")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "34a013d8-8001-46e2-bc5a-9f45aeb51273")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MF" "Diodes Incorporated"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "90695906-4a04-41e2-9406-46ececa1967f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MAXIMUM_PACKAGE_HEIGHT" "1.0mm"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bfa17b99-c9c1-478d-a443-2a23e5b8516a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "aa6fcc2b-4e18-41d0-a3f9-8346465fc957")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e0ab50d3-2a30-4588-afe1-f23b9a5b65fd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Check_prices" "https://www.snapeda.com/parts/AP62301WU7/Diodes+Inc./view-part/?ref=eda"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "aea652d1-8eef-418c-b1f4-6f343cabb774")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "STANDARD" "IPC 7351B"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d4d8e74d-9699-4496-bce4-a74a82caced0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PARTREV" "Rev. 3 - 2"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "240007c7-2baa-4d92-a524-69c6cfc0c243")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SnapEDA_Link" "https://www.snapeda.com/parts/AP62301WU7/Diodes+Inc./view-part/?ref=snap"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "12aee88a-fc6e-4551-b069-820cd8d46475")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MP" "AP62301WU7"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5014308b-6e84-48b9-b4ec-b396918bb11c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=7800380&manufacturer=Diodes Incorporated&part_name=AP62301WU7&search_term=ap62301wu-7"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9f106b7f-fd31-415c-9f39-b5ea1ea604d0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description_1" "Buck Switching Regulator IC Positive Adjustable 0.8V 1 Output 3A SOT-23-6 Thin, TSOT-23-6"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cc8d6789-92ff-43e0-9ce1-61530ff0e96d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SNAPEDA_PN" "AP62300TWU-7"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0ea4387d-5fa2-49da-baa7-8ebb387e208d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Availability" "In Stock"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ea052114-e8a3-4beb-b6d2-c9fca7542ba8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MANUFACTURER" "Diodes Inc."
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ed67724b-a7cf-49f3-9c05-99a835a3a8d5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start 0.8 -1.565)
+		(end -0.8 -1.565)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ecb11407-25f1-4dbc-ae98-bdd8e952cab5")
+	)
+	(fp_line
+		(start 0.8 1.565)
+		(end -0.8 1.565)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "aa99c3dc-661a-4a63-8ca5-1751ca54e2c4")
+	)
+	(fp_circle
+		(center -2.5 -0.95)
+		(end -2.4 -0.95)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "65d46483-d726-4850-84d6-df810f739246")
+	)
+	(fp_line
+		(start -2.11 -1.7)
+		(end -2.11 1.7)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "1df9f56f-04ff-444a-84e3-0699de401f64")
+	)
+	(fp_line
+		(start -2.11 1.7)
+		(end 2.11 1.7)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "5f04db2a-1441-4c87-a127-1c6b02b1bd5d")
+	)
+	(fp_line
+		(start 2.11 -1.7)
+		(end -2.11 -1.7)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f663026c-a0dd-4dd4-adbc-4a41287268e0")
+	)
+	(fp_line
+		(start 2.11 1.7)
+		(end 2.11 -1.7)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "485d617b-8a28-4c8a-8d3e-588e6ebd360d")
+	)
+	(fp_line
+		(start -0.8 -1.45)
+		(end -0.8 1.45)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "43a56770-60f2-489d-aa7a-1a6b70860736")
+	)
+	(fp_line
+		(start -0.8 1.45)
+		(end 0.8 1.45)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "687f5a2a-5387-4311-9546-9c18303d0354")
+	)
+	(fp_line
+		(start 0.8 -1.45)
+		(end -0.8 -1.45)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4e786eed-da1d-476e-a25d-a4a9dfd94368")
+	)
+	(fp_line
+		(start 0.8 1.45)
+		(end 0.8 -1.45)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "625633d1-a087-4e12-9af0-2172cde46ef3")
+	)
+	(fp_circle
+		(center -2.5 -0.95)
+		(end -2.4 -0.95)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "8ed1435d-ed15-4d54-861f-1c0393c50c91")
+	)
+	(pad "1" smd rect
+		(at -1.19 -0.95)
+		(size 1.34 0.59)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "74077ecc-d57c-4d42-9a1a-ce94910e2d2f")
+	)
+	(pad "2" smd rect
+		(at -1.19 0)
+		(size 1.34 0.59)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "409564c9-c25a-4350-856d-9927d53eb3f8")
+	)
+	(pad "3" smd rect
+		(at -1.19 0.95)
+		(size 1.34 0.59)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "dbb77ea0-8b59-416b-9c60-361402b05c15")
+	)
+	(pad "4" smd rect
+		(at 1.19 0.95)
+		(size 1.34 0.59)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "b044cdf6-60d0-45f2-a656-bd877b3530ad")
+	)
+	(pad "5" smd rect
+		(at 1.19 0)
+		(size 1.34 0.59)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "67fc085a-2cc9-43f0-8041-599c04702dd8")
+	)
+	(pad "6" smd rect
+		(at 1.19 -0.95)
+		(size 1.34 0.59)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "806a9e67-c57a-4187-a2cb-667ab084472e")
+	)
+	(embedded_fonts no)
+)

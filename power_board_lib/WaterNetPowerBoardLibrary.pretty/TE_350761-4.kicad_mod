@@ -1,0 +1,390 @@
+(footprint "TE_350761-4"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -0.69847 -5.00746 0)
+		(layer "F.SilkS")
+		(uuid "871419c8-d863-47cb-a8f5-39b0db11839a")
+		(effects
+			(font
+				(size 1.000693 1.000693)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "350761-4"
+		(at 3.374655 23.984775 0)
+		(layer "F.Fab")
+		(uuid "5f844550-c0ed-4b02-abaa-f51b8cff91ed")
+		(effects
+			(font
+				(size 1.000197 1.000197)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "17f5f061-6ebf-4064-9e01-ee59e8fa0828")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c748e29a-b968-4e19-8c6a-96db6ae1d991")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Comment" "350761-4"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "866c2743-bcb1-49e2-82cf-25f60eb93391")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MF" "TE Connectivity"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "984d9db0-bf2b-4a26-8275-4f4b2353a76e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description_1" "Header, Soft Shell, Universal MATE-N-LOK, Natural, Nylon, 4, UL 94V-2 | TE Connectivity 350761-4"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8530221b-a88b-40a1-a1c7-d39a69462e90")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b55a20e1-462c-45d2-a905-0e0145c0eef5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "49a7e3df-f2b5-40e0-8da9-1ccd7b0091c8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Check_prices" "https://www.snapeda.com/parts/350761-4/TE+Connectivity+AMP+Connectors/view-part/?ref=eda"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6bbc13ed-f909-45e6-a736-696f7bbbd804")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PART_REV" "N2"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f11ae768-c717-43df-a584-330238264da8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "STANDARD" "MANUFACTURER RECOMMENDATIONS"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7d8df55c-714b-4d55-9220-e5c024b7ff5e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SnapEDA_Link" "https://www.snapeda.com/parts/350761-4/TE+Connectivity+AMP+Connectors/view-part/?ref=snap"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ebad2c32-2a21-4436-9a60-d2e77855ee4a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MP" "350761-4"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c12acc10-7320-4efa-b665-a0bcc4789669")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "EU_RoHS_Compliance" "Compliant"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d853cbcb-02a1-480b-a175-45276c1a0ad1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Availability" "In Stock"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "997931cc-92c2-4828-9a9f-afffcaa9b4b4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MANUFACTURER" "TE CONNECTIVITY"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1dc30467-a3c6-4aab-828a-41184b26c42c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -3.81 -3.81)
+		(end 3.81 -3.81)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "59b40c89-a152-4200-8241-cb9150310621")
+	)
+	(fp_line
+		(start -3.81 22.86)
+		(end -3.81 -3.81)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e27a6a37-e633-44b6-9444-0ed729a23a4f")
+	)
+	(fp_line
+		(start 3.81 -3.81)
+		(end 3.81 22.86)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "07c80b51-8b26-4465-99b8-3d4efc4eeb6f")
+	)
+	(fp_line
+		(start 3.81 22.86)
+		(end -3.81 22.86)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9e6e4936-f2e4-4cc6-b04b-e88dc2e3aaae")
+	)
+	(fp_circle
+		(center -4.52607 -0.104141)
+		(end -4.32607 -0.104141)
+		(stroke
+			(width 0.6)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "36e43da6-c3c2-4273-bf5c-c8ae58e362d6")
+	)
+	(fp_line
+		(start -4.1 23.11)
+		(end -4.06 -4.06)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "108027db-9489-480f-b09c-560b3250cce4")
+	)
+	(fp_line
+		(start -4.06 -4.06)
+		(end 4.06 -4.06)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "807f9e70-80b5-44f5-b912-35a684d44366")
+	)
+	(fp_line
+		(start 4.06 -4.06)
+		(end 4.06 23.11)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "79c76639-cfc3-490e-ac24-b2d0a720a6d3")
+	)
+	(fp_line
+		(start 4.06 23.11)
+		(end -4.1 23.11)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e4fbed14-a587-451f-8d08-4814c4b49de2")
+	)
+	(fp_line
+		(start -3.81 -3.81)
+		(end 3.81 -3.81)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "cbdbc86c-79cb-4522-b2ae-539812c95b02")
+	)
+	(fp_line
+		(start -3.81 22.86)
+		(end -3.81 -3.81)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "198d6af1-546d-40ba-ac38-6436a3047eb8")
+	)
+	(fp_line
+		(start 3.81 -3.81)
+		(end 3.81 22.86)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "30eb89e1-9434-46fb-96eb-e53aec663a4c")
+	)
+	(fp_line
+		(start 3.81 22.86)
+		(end -3.81 22.86)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3ddd3a29-9754-418f-9632-33821bc3e30e")
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 2.67 2.67)
+		(drill 1.78)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "b112f467-24b6-4bfd-8b26-19a4e39fc3ae")
+	)
+	(pad "2" thru_hole circle
+		(at 0 6.35)
+		(size 2.67 2.67)
+		(drill 1.78)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "792c820d-638c-440d-abe9-bc87afd2bc33")
+	)
+	(pad "3" thru_hole circle
+		(at 0 12.7)
+		(size 2.67 2.67)
+		(drill 1.78)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "3e8280a6-0828-481b-a9ea-a1b7c5a67332")
+	)
+	(pad "4" thru_hole circle
+		(at 0 19.05)
+		(size 2.67 2.67)
+		(drill 1.78)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "7387ec8a-5462-40a1-ae30-fdfae3bfab4e")
+	)
+	(embedded_fonts no)
+)

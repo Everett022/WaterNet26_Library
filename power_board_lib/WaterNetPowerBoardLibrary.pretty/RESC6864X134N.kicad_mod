@@ -1,0 +1,272 @@
+(footprint "RESC6864X134N"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -2.89 -3.95 0)
+		(layer "F.SilkS")
+		(uuid "0c8032e1-f54c-4228-a98e-482c85ed0445")
+		(effects
+			(font
+				(size 0.393701 0.393701)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "0.001 Ohm"
+		(at -0.89 3.95 0)
+		(layer "F.Fab")
+		(uuid "8138037b-09ca-4a77-9bda-d9579af436ef")
+		(effects
+			(font
+				(size 0.393701 0.393701)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "551044a1-2560-405d-adb2-f45b1ad164b2")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e17a29a8-7cdf-4810-a69b-f66171d1fbea")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MF" "Stackpole Electronics"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c2801a6d-0b3d-4196-9e11-ccd9cb61d1cc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description_1" "1 mOhms ±1% 4W Chip Resistor Nonstandard Automotive AEC-Q200, Current Sense Metal Element"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a55e7320-1fdc-45ca-9b1e-33ed26fe1dd6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" "Nonstandard Stackpole Electronics"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1c653739-bcb0-49f4-a913-64e88fba86a3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "59708e82-eca6-4814-bc8d-091b4373d489")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SnapEDA_Link" "https://www.snapeda.com/parts/CSS2725FT1L00/Stackpole+Electronics/view-part/?ref=snap"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c93c42a1-af1b-4d9b-8613-676623bf2380")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MP" "CSS2725FT1L00"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a73c2a0f-9abb-486d-9653-7bc4e277f516")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Availability" "In Stock"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9955ccf0-0684-4eb9-87fe-6b7efe72d084")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Check_prices" "https://www.snapeda.com/parts/CSS2725FT1L00/Stackpole+Electronics/view-part/?ref=eda"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "121a81db-6a85-4231-bb06-619b7d84ceaa")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -0.7 -3.35)
+		(end 0.7 -3.35)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "92b42880-12b6-4242-befa-564f1b22924e")
+	)
+	(fp_line
+		(start -0.7 3.35)
+		(end 0.7 3.35)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6e475c65-7a3b-48d3-b9f4-e2bdb6bded1a")
+	)
+	(fp_line
+		(start -4.136 -3.606)
+		(end 4.136 -3.606)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "1963eb77-6433-45e7-9217-2950d86842be")
+	)
+	(fp_line
+		(start -4.136 3.606)
+		(end -4.136 -3.606)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "165439cc-4b8c-44e1-829c-e7d2ee7e13ea")
+	)
+	(fp_line
+		(start -4.136 3.606)
+		(end 4.136 3.606)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "9194b2af-94f1-4a5a-be88-4b1c17f06c9e")
+	)
+	(fp_line
+		(start 4.136 3.606)
+		(end 4.136 -3.606)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "638ae489-6c8f-4f0c-9395-1602c1c78353")
+	)
+	(fp_line
+		(start -3.53 3.35)
+		(end -3.53 -3.35)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b92e2659-c220-4197-bbbb-68c7c69bcdc1")
+	)
+	(fp_line
+		(start 3.53 -3.35)
+		(end -3.53 -3.35)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "56e4693b-0b08-4eb5-aa17-4f015bb640d7")
+	)
+	(fp_line
+		(start 3.53 3.35)
+		(end -3.53 3.35)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "34f544be-8932-481e-b8ca-4a6940cb9673")
+	)
+	(fp_line
+		(start 3.53 3.35)
+		(end 3.53 -3.35)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "605a1cf5-65ec-4df3-994d-899972d3b9a5")
+	)
+	(pad "1" smd rect
+		(at -2.456 0)
+		(size 2.86 6.71)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "589aca05-d1e9-43be-9c2c-fbce7155ba2b")
+	)
+	(pad "2" smd rect
+		(at 2.456 0)
+		(size 2.86 6.71)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "144c84f7-71b7-44a4-b34f-01ccfd9928d4")
+	)
+	(embedded_fonts no)
+)

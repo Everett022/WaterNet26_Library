@@ -1,0 +1,396 @@
+(footprint "CONN_SD-47053-001_H10P00_MOL"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -3.9116 0 0)
+		(layer "F.SilkS")
+		(uuid "c6fdb772-eef2-442b-b6c7-6ad059b15ea4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "4 Pin Fan Header"
+		(at 12.2428 0 0)
+		(layer "F.Fab")
+		(uuid "eb67da37-deca-451d-94a9-0b1525c01da7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "22152754-74cf-43b4-b1f5-aaba6e9a0f3d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "092a2c1f-0cc9-4858-9006-f469bd016a43")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MF" "Molex"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5e59f726-558e-4a6e-93a0-23d46238c831")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description_1" "Conn Wire to Board HDR 4 POS 2.54mm Solder ST Thru-Hole KK® Bag"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2a35ab92-c944-4184-9704-92ec0fc25cab")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "89e08778-1dc9-41dc-a81f-98f330be252c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "79d55887-7008-47ad-9bcd-d2bf0f7bceaf")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Check_prices" "https://www.snapeda.com/parts/470531000/Molex/view-part/?ref=eda"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bdc46d5a-6379-446a-bfeb-c9190aee909d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Availability" "In Stock"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "af61029d-b5d9-4b05-a57b-c432383f2db7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SnapEDA_Link" "https://www.snapeda.com/parts/470531000/Molex/view-part/?ref=snap"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6c3af066-ac42-4690-9dc6-91898e58d9e2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MP" "470531000"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4afd6606-b124-4d6e-b214-69e6a9ba4ee3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=3210984&manufacturer=Molex&part_name=470531000&search_term=0470531000"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a3061657-6635-4619-817f-60905b6f0e13")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MFR_NAME" "Molex Connector Corporation"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a491d2da-09cd-44b5-91b1-b321eb293a30")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MANUFACTURER_PART_NUMBER" "470531000"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "db2a6293-4b22-4409-b31a-aaa7fd42cfbf")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -9.0424 -3.429)
+		(end -9.0424 2.667)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e5785917-268b-47f2-9c1b-3f64c2952b49")
+	)
+	(fp_line
+		(start -9.0424 2.667)
+		(end -5.9182 2.667)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f97eb576-31ba-43cd-bc57-3ec6a0c14155")
+	)
+	(fp_line
+		(start -4.2418 2.667)
+		(end 1.4224 2.667)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "53410e0d-d334-4626-9420-906987201b4c")
+	)
+	(fp_line
+		(start 1.4224 -3.429)
+		(end -9.0424 -3.429)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7e0ee978-afc2-4b2a-bb6a-74eaddcbaf17")
+	)
+	(fp_line
+		(start 1.4224 2.667)
+		(end 1.4224 -3.429)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "bde26133-3796-478c-86ce-2d46d3fb5ad2")
+	)
+	(fp_arc
+		(start 1.6764 0)
+		(mid 2.0574 -0.381)
+		(end 2.4384 0)
+		(stroke
+			(width 0.508)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8dc9c32b-2a84-4879-a7be-5640fc6ca5da")
+	)
+	(fp_arc
+		(start 2.4384 0)
+		(mid 2.0574 0.381)
+		(end 1.6764 0)
+		(stroke
+			(width 0.508)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a5991f45-eb89-4b02-8e86-e68473296e6b")
+	)
+	(fp_arc
+		(start 1.6764 0)
+		(mid 2.0574 -0.381)
+		(end 2.4384 0)
+		(stroke
+			(width 0.508)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "966817d7-16d4-451d-a8f9-4a6aef828bd4")
+	)
+	(fp_arc
+		(start 2.4384 0)
+		(mid 2.0574 0.381)
+		(end 1.6764 0)
+		(stroke
+			(width 0.508)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "646c0ba7-5258-4f63-8e49-65d485b3129b")
+	)
+	(fp_line
+		(start -8.9154 -3.302)
+		(end -8.9154 2.54)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "de0eaf4d-cb2e-40df-b10f-778a84d366af")
+	)
+	(fp_line
+		(start -8.9154 2.54)
+		(end 1.2954 2.54)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "297367d6-b177-454a-b4c5-d49701209f34")
+	)
+	(fp_line
+		(start 1.2954 -3.302)
+		(end -8.9154 -3.302)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2fe03117-a1ea-407c-9564-006502eb9ee1")
+	)
+	(fp_line
+		(start 1.2954 2.54)
+		(end 1.2954 -3.302)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "94bbd925-e792-43ff-ae7e-e6d9d9bf7c08")
+	)
+	(fp_arc
+		(start -0.381 -1.905)
+		(mid 0 -2.286)
+		(end 0.381 -1.905)
+		(stroke
+			(width 0.508)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5731dd3c-3572-427d-8fe3-c740bfc41faf")
+	)
+	(fp_arc
+		(start 0.381 -1.905)
+		(mid 0 -1.524)
+		(end -0.381 -1.905)
+		(stroke
+			(width 0.508)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "150f5172-dde3-4af6-9b49-8f9d7a39a509")
+	)
+	(pad "" np_thru_hole circle
+		(at -5.08 2.159)
+		(size 1.2954 1.2954)
+		(drill 1.2954)
+		(layers "*.Cu" "*.Mask")
+		(uuid "54bb318e-fa4a-46ba-a55e-41566d3ba73f")
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 1.5748 1.5748)
+		(drill 1.0668)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "8b3c1cbc-38f2-4659-8660-a195e255b020")
+	)
+	(pad "2" thru_hole circle
+		(at -2.54 0)
+		(size 1.5748 1.5748)
+		(drill 1.0668)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "8d902375-7252-4708-a68d-635ebd726721")
+	)
+	(pad "3" thru_hole circle
+		(at -5.08 0)
+		(size 1.5748 1.5748)
+		(drill 1.0668)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "953a1823-17a7-49a1-ad2f-31210df26289")
+	)
+	(pad "4" thru_hole circle
+		(at -7.62 0)
+		(size 1.5748 1.5748)
+		(drill 1.0668)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "15b6fe9d-51d4-44b2-874a-ed779be514bc")
+	)
+	(embedded_fonts no)
+)
